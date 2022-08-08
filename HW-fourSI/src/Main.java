@@ -35,7 +35,7 @@ public class Main {
 
         }
 
-        //Задание №5
+        //Задание №5.
         int c = 0;
         int d = 1;
         System.out.print(c + " " + d + " ");
